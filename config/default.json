@@ -1,0 +1,15 @@
+{
+	"database": {
+		"host": [
+			"cluster0-shard-00-00-m9fv3.mongodb.net:27017",
+			"cluster0-shard-00-01-m9fv3.mongodb.net:27017",
+			"cluster0-shard-00-02-m9fv3.mongodb.net:27017"
+		],
+		"dbName": "xyinc",
+		"dbUser": "admin",
+		"dbPass": "YZWHawgMx2udcQZF",
+		"authSource": "admin",
+		"ssl": true,
+		"replicaSetName": "Cluster0-shard-0"
+	}
+}

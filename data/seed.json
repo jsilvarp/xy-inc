@@ -1,0 +1,37 @@
+[
+  {
+    "poiDesc": "Lanchonete",
+    "poiX": 27,
+    "poiY": 12
+  },
+  {
+    "poiDesc": "Posto",
+    "poiX": 31,
+    "poiY": 18
+  },
+  {
+    "poiDesc": "Joalheria",
+    "poiX": 15,
+    "poiY": 12
+  },
+  {
+    "poiDesc": "Floricultura",
+    "poiX": 19,
+    "poiY": 21
+  },
+  {
+    "poiDesc": "Pub",
+    "poiX": 12,
+    "poiY": 8
+  },
+  {
+    "poiDesc": "Supermercado",
+    "poiX": 23,
+    "poiY": 6
+  },
+  {
+    "poiDesc": "Churrascaria",
+    "poiX": 28,
+    "poiY": 2
+  }
+]
